@@ -1,0 +1,17 @@
+{
+  "requestRecordReference" : "RRR738539",
+  "legalComplianceAssessmentRequestActionTaskRecord" : {},
+  "legalComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "755198",
+    "lawReference" : "750767",
+    "legalAssessmentType" : "legalAssessmentType",
+    "customerReference" : "747649",
+    "legalAssessmentWorkProducts" : "legalAssessmentWorkProducts",
+    "legalAssessmentResult" : "legalAssessmentResult",
+    "jurisdictionReference" : "757832",
+    "documentReference" : "756985",
+    "businessUnitReference" : "787726"
+  },
+  "legalComplianceAssessmentRequestActionTaskReference" : "LCARATR709252",
+  "requestResponseRecord" : {}
+}

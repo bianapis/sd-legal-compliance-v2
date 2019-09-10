@@ -1,0 +1,31 @@
+{
+  "legalComplianceAssessmentInstanceReportRecord" : {
+    "legalComplianceAssessmentInstanceReport" : {},
+    "legalComplianceAssessmentInstanceReportData" : "legalComplianceAssessmentInstanceReportData",
+    "legalComplianceAssessmentInstanceReportType" : "legalComplianceAssessmentInstanceReportType"
+  },
+  "legalComplianceAssessmentInstanceAnalysis" : {
+    "legalComplianceAssessmentInstanceAnalysisReportType" : "legalComplianceAssessmentInstanceAnalysisReportType",
+    "legalComplianceAssessmentInstanceAnalysisReport" : {},
+    "legalComplianceAssessmentInstanceAnalysisData" : "legalComplianceAssessmentInstanceAnalysisData"
+  },
+  "legalComplianceAssessmentRetrieveActionTaskRecord" : {},
+  "legalComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "742954",
+    "lawComplianceandReportingRequirements" : "lawComplianceandReportingRequirements",
+    "lawReference" : "740089",
+    "lawComplianceAccountability" : "lawComplianceAccountability",
+    "legalGuideline" : "legalGuideline",
+    "lawDefinition" : "lawDefinition",
+    "legalAssessmentType" : "legalAssessmentType",
+    "customerReference" : "751944",
+    "legalAssessmentWorkProducts" : "legalAssessmentWorkProducts",
+    "legalAssessmentResult" : "legalAssessmentResult",
+    "jurisdictionReference" : "729672",
+    "legalPenalties" : "legalPenalties",
+    "documentReference" : "704905",
+    "businessUnitReference" : "742001"
+  },
+  "legalComplianceAssessmentRetrieveActionResponse" : "legalComplianceAssessmentRetrieveActionResponse",
+  "legalComplianceAssessmentRetrieveActionTaskReference" : "LCARATR753211"
+}

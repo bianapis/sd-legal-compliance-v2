@@ -1,0 +1,17 @@
+{
+  "legalComplianceAssessmentEvaluateActionRecord" : {},
+  "legalComplianceAssessmentInstanceStatus" : "legalComplianceAssessmentInstanceStatus",
+  "legalComplianceAssessmentInstanceReference" : "LCAIR745738",
+  "legalComplianceAssessmentInstanceRecord" : {
+    "lawComplianceandReportingRequirements" : "lawComplianceandReportingRequirements",
+    "lawDefinition" : "lawDefinition",
+    "legalAssessmentType" : "legalAssessmentType",
+    "legalAssessmentWorkProducts" : "legalAssessmentWorkProducts",
+    "legalAssessmentResult" : "legalAssessmentResult",
+    "legalPenalties" : "legalPenalties",
+    "documentReference" : "789466",
+    "lawComplianceAccountability" : "lawComplianceAccountability",
+    "legalGuideline" : "legalGuideline"
+  },
+  "legalComplianceAssessmentEvaluateActionReference" : "LCAEAR735829"
+}

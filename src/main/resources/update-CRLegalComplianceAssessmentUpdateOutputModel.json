@@ -1,0 +1,15 @@
+{
+  "legalComplianceAssessmentUpdateActionTaskReference" : "LCAUATR757136",
+  "legalComplianceAssessmentInstanceRecord" : {
+    "productServiceReference" : "738414",
+    "lawReference" : "774557",
+    "legalAssessmentType" : "legalAssessmentType",
+    "customerReference" : "748706",
+    "legalAssessmentWorkProducts" : "legalAssessmentWorkProducts",
+    "jurisdictionReference" : "702009",
+    "documentReference" : "777876",
+    "businessUnitReference" : "793987"
+  },
+  "updateResponseRecord" : {},
+  "legalComplianceAssessmentUpdateActionTaskRecord" : {}
+}
